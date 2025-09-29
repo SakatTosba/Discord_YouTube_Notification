@@ -9,7 +9,7 @@ YouTube Data API v3 (public okuma).
 
 Discord Webhook ile çalışır, (Discord bot hesabı gerektirmez).
 
-Spam önleme: Son gönderilen video ID’sini dosyada saklar (last_id_*.txt).
+Spam önleme: Son gönderilen video ID’sini dosyada saklar (last_id.txt).
 
 Google console kota dostu: playlistItems.list (1 birim/istek).
 
