@@ -3,7 +3,7 @@
 
 ## Özellikler
 
-Tek dosya Node.js script (CommonJS, paket gerektirmez; Node 18+).
+Tek dosya Node.js script 
 
 YouTube Data API v3 (public okuma).
 
